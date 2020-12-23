@@ -1,0 +1,38 @@
+h1{
+    color:red;
+    align-items: center;
+    text-align: center;
+    font-size:45px;
+}
+
+h3{
+    color:blue;
+    font-size:29px;
+    align-items: center;
+    text-align: center;
+   
+}
+
+.card .blue{
+
+    width: 200px;
+    background-color: rgb(113, 113, 235);
+    height: 100px;
+    text-align: center;
+
+}
+
+.card .red{
+
+    width: 200px;
+    background-color: rgb(235, 113, 113);
+    height: 100px;
+    text-align: center;
+
+}
+
+.container{
+
+    display: flex;
+    justify-content: space-evenly;
+}
